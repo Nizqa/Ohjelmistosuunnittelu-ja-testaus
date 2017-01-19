@@ -9,7 +9,7 @@ asd
 #### alaotsikko
 
 | Numeroita | Jotain |
-|:-|:-|
+|:--|:--|
 |1|asd|
 |2|dsa|
 
