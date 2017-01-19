@@ -9,7 +9,7 @@ asd
 #### alaotsikko
 asd
 ##### alaotsikko
-![Koira](https://fi.wikipedia.org/wiki/Koira#/media/File:Finnish_Spitz_600.jpg)
+![](http://i.imgur.com/7P2v384.jpg)
 
 [Linkki jonnekki](https://www.reddit.com/)
 
