@@ -7,7 +7,12 @@ asd
 ### alaotsikko
 asd
 #### alaotsikko
-asd
+
+| Numeroita | Jotain |
+|:----------|:-------|
+|1|asd|
+|2|dsa|
+
 ##### alaotsikko
 ![Joe](http://i.imgur.com/7P2v384.jpg)
 
