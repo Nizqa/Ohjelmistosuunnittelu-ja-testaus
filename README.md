@@ -1,4 +1,4 @@
-# Ohjelmistosuunnittelu ja testaus
+# Ohjelmistosuunnittelu ja -testaus
 
 Lallatilaa
 
