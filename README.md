@@ -8,7 +8,7 @@ asd
 asd
 #### alaotsikko
 
-| Numeroita | Jotain |
+|Numeroita|Jotain|
 |:--|:--|
 |1|asd|
 |2|dsa|
